@@ -1,0 +1,2 @@
+# question-search-qq-bot
+边缘骇客编程实验室QQ搜题机器人订单项目。通过llonebot协议端和nonebot2框架搭建。通过excel实现数据持久化存储搭建。
